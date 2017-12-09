@@ -53,11 +53,11 @@ projects:
 
 social:
   - service: github
-    username: sobolevn
-    link: https://github.com/sobolevn
+    username: anjannath
+    link: https://github.com/anjannath
   - service: twitter
-    username: sobolevn
-    link: https://twitter.com/sobolevn
+    username: anjanj_nath
+    link: https://twitter.com/anjanj_nath
 
 # Plugins
 gems:
